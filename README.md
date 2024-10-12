@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile!
-👋 Hi, I’m @MattOzuna
+# 👋 Hi, I’m @MattOzuna
 
 I'm a **motivated Software Engineer** with a passion for coding excellence and a keen eye for detail. I am proficient at applying coding best practices to develop clean, efficient, and maintainable code. With experience in both front-end and back-end development, I have a track record of creating innovative solutions and leveraging technology to solve real-world problems.
 
