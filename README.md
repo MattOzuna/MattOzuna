@@ -33,5 +33,3 @@ I'm a **motivated Software Engineer** with a passion for coding excellence and a
 ## Let's Connect!
 
 Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to connect!
-
-Happy coding! 🚀
