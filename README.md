@@ -5,6 +5,7 @@ I'm a **motivated Software Engineer** with a passion for coding excellence and a
 ## Skills
 
 - **Programming Languages:**
+  - Java
   - JavaScript
   - Python
   - Golang
